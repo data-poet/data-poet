@@ -6,8 +6,6 @@ Graduating in Electrical Engineering at the College of Engineering of Guaratingu
 
 President at IEEE - Computer Society - Guaratinguetá.
 
-<img src = "Data/Data_Science_Wallpaper.png" width = "1000">
-
 For me, it's all about the big picture. Therefore, I developed a passion for using data and common sense to generate simple and implementable solutions to complex problems. I am fascinated with increasingly quantitative decision making. I made it my mission to keep up to date with the latest technologies and analytical techniques.
 
 I seek solutions to problems in the most diverse areas, especially engineering and business. Through these experiments I am building an arsenal of analytical techniques to be a complete Data Scientist.
