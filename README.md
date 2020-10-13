@@ -18,11 +18,13 @@ victor.v.fantucci@gmail.com
 
 <a href="https://www.linkedin.com/in/victor-vinci-fantucci-485464187"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/victorvincifantucci"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
   
- ### 💬 Acknowledgments:
-Special thanks to Jaemin Lee from importdata.
-
-[Git Hub Repo: importdata](https://github.com/importdata/importdata)
-
 ### :chart_with_upwards_trend: Profile Overall:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VictorFantucci)](https://github.com/anuraghazra/github-readme-statsapi?username=VictorFantucci&show_icons=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFantucci)](https://github.com/anuraghazra/github-readme-stats)
+
+### 💬 Acknowledgments:
+Special thanks to Jaemin Lee from importdata.
+
+[Git Hub Repo: importdata](https://github.com/importdata/importdata)
