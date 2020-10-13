@@ -28,3 +28,5 @@ victor.v.fantucci@gmail.com
 Special thanks to Jaemin Lee from importdata.
 
 [Git Hub Repo: importdata](https://github.com/importdata/importdata)
+
+Also very grateful that [Anurag](https://github.com/anuraghazra) created the Github Readme Stats (see the [repository](https://github.com/anuraghazra/github-readme-stats))
