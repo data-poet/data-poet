@@ -23,4 +23,6 @@ Special thanks to Jaemin Lee from importdata.
 
 [Git Hub Repo: importdata](https://github.com/importdata/importdata)
 
+### :chart_with_upwards_trend: Profile Overall:
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VictorFantucci)](https://github.com/anuraghazra/github-readme-statsapi?username=VictorFantucci&show_icons=true&theme=synthwave)
