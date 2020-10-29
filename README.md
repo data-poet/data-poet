@@ -14,8 +14,6 @@ I seek solutions to problems in the most diverse areas, especially engineering a
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VictorFantucci)](https://github.com/anuraghazra/github-readme-statsapi?username=VictorFantucci&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFantucci)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 📫 How to reach me:
 
 victor.v.fantucci@gmail.com
@@ -25,8 +23,8 @@ victor.v.fantucci@gmail.com
 <a href="https://www.linkedin.com/in/victor-vinci-fantucci-485464187"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/victorvincifantucci"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
   
 ### 💬 Acknowledgments:
-Special thanks to Jaemin Lee from importdata.
+Special thanks to Jaemin Lee from importdata and Anurang.
 
 [Git Hub Repo: importdata](https://github.com/importdata/importdata)
 
-Also very grateful that [Anurag](https://github.com/anuraghazra) created the Github Readme Stats (see the [repository](https://github.com/anuraghazra/github-readme-stats))
+[Anurag](https://github.com/anuraghazra/github-readme-stats)
