@@ -27,4 +27,4 @@ Special thanks to Jaemin Lee from importdata and Anurang.
 
 [Git Hub Repo: importdata](https://github.com/importdata/importdata)
 
-[Anurag](https://github.com/anuraghazra/github-readme-stats)
+[Git Hub Repo: Anurag](https://github.com/anuraghazra/github-readme-stats)
