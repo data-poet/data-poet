@@ -12,7 +12,7 @@ I seek solutions to problems in the most diverse areas, especially engineering a
 
 ### :chart_with_upwards_trend: Profile Overall:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VictorFantucci)](https://github.com/anuraghazra/github-readme-statsapi?username=VictorFantucci&show_icons=true&theme=synthwave)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VictorFantucci&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-statsapi?username=VictorFantucci&show_icons=true&theme=algolia)
 
 ### 📫 How to reach me:
 
