@@ -23,7 +23,6 @@ victor.v.fantucci@gmail.com
 <a href="https://www.linkedin.com/in/victor-vinci-fantucci-485464187"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.kaggle.com/victorvincifantucci"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
   
 ### 💬 Acknowledgments:
-Special thanks to Jaemin Lee from importdata and Anurang.
 
 [Git Hub Repo: importdata](https://github.com/importdata/importdata)
 
