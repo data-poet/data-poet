@@ -12,9 +12,9 @@ I seek solutions to problems in the most diverse areas, especially engineering a
 
 ### :chart_with_upwards_trend: Profile Overall:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VictorFantucci&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-statsapi?username=VictorFantucci&show_icons=true&theme=algolia)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VictorFantucci&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-statsapi?username=VictorFantucci&show_icons=true&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFantucci&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFantucci&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 How to reach me:
 
