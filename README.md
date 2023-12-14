@@ -10,7 +10,7 @@ For me, it's all about the big picture. Therefore, I developed a passion for usi
 
 I seek solutions to problems in the most diverse areas, especially engineering and business. Through these experiments I am building an arsenal of analytical techniques to be a complete Data Scientist.
 
-### :chart_with_upwards_trend: Profile Overall:
+### 📈 Profile Overall:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VictorFantucci&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-statsapi?username=VictorFantucci&show_icons=true&theme=algolia)
 
