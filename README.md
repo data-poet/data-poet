@@ -2,9 +2,9 @@
 
 ### About myself:
 
-Graduating in Electrical Engineering at the College of Engineering of Guaratinguetá, institute of the University Estadual Paulista "Júlio de Mesquita Filho" (UNESP).
+Graduate in Electrical Engineering at the College of Science and Engineering of Guaratinguetá, institute of the University Estadual Paulista "Júlio de Mesquita Filho" (UNESP).
 
-Data Scientist at IEEE - Computer Society - Guaratinguetá.
+Data Scientist | Machine Learning Engineer
 
 For me, it's all about the big picture. Therefore, I developed a passion for using data and common sense to generate simple and implementable solutions to complex problems. I am fascinated with increasingly quantitative decision making. I made it my mission to keep up to date with the latest technologies and analytical techniques.
 
