@@ -2,7 +2,7 @@
 
 ### About myself:
 
-I am a data analyst with over 2 years of hands-on experience in Python, SQL, and end-to-end data processes. I have extensive proficiency in building ETL pipelines, managing relational and non-relational databases (MySQL and MongoDB), and developing interactive and dynamic dashboards in Power BI for data visualization and analysis. My experience includes implementing Machine Learning (ML) models using Scikit-Learn and integrating them into production environments with Docker and APIs. One of the highlights of my work was creating a KPI control tool for Tenaris Confab, which optimized data-driven strategic decision-making. With a bachelor's degree in Electrical Engineering and an MBA in Data Science and Analytics, I am constantly evolving, focused on optimizing analytical processes and solving complex problems with data.
+I am a data specialist with over 3 years of hands-on experience in Python, SQL, and end-to-end data processes. I have extensive proficiency in building ETL pipelines, managing relational and non-relational databases (MySQL and MongoDB), and developing interactive and dynamic dashboards in Power BI for data visualization and analysis. My experience includes implementing Machine Learning (ML) models using Scikit-Learn and integrating them into production environments with Docker and APIs. One of the highlights of my work was creating a KPI control tool for Tenaris Confab, which optimized data-driven strategic decision-making. With a bachelor's degree in Electrical Engineering and an MBA in Data Science and Analytics, I am constantly evolving, focused on optimizing analytical processes and solving complex problems with data.
 
 ### 📈 Profile Overall:
 
