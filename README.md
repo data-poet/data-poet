@@ -14,37 +14,6 @@ I’m a **Data Specialist** with over **3 years of experience** working across t
 
 ---
 
-### ⚙️ Technical Skills
-
-**Proficient:** Python, SQL, Power BI, Looker, Git  
-**Intermediate:** Linux, Databricks, Docker  
-**Beginner:** CI/CD, Google Cloud (GCP), Azure, AWS  
-
----
-
-### 💼 Professional Highlights
-
-**💡 Data Consultant – SulAmérica (2025–Present)**  
-- Develop and maintain end-to-end data projects supporting executive decision-making.  
-- Utilize Python, SQL, and Looker on GCP for advanced analytics and complex statistical modeling.  
-
-**⚙️ Senior Analytics Engineer – Docway | SulAmérica (2025)**  
-- Rebuilt internal BI architecture, improving scalability, efficiency, and clarity.  
-- Delivered financial and operational analytics projects, improving client selection by **15%** and reducing costs by **30%**.  
-- Key tech: Python, Spark, Databricks, Azure, Power BI.  
-
-**🏭 Data Scientist – Tenaris (2023–2025)**  
-- Created an end-to-end ML solution to estimate machine cycle times (**R² = 0.91**) and deployed it through an API.  
-- Built a performance tracking system for industrial KPIs, enabling data-driven decision-making.  
-- Automated Excel-based data workflows, cutting task time by **12×**.  
-- Key tech: Python, scikit-learn, Flask, Django, REST API, Power BI, SQL, Docker.  
-
-**🧠 Machine Learning Engineer – Geofusion (2021–2022)**  
-- Developed geospatial ML models for market analysis and strategy.  
-- Improved model performance and reliability through algorithm optimization.  
-- Key tech: Python, scikit-learn, GeoPandas, Docker, Git, Linux.
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
