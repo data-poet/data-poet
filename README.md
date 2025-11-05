@@ -1,43 +1,79 @@
-## Welcome to my GitHub Profile
+### 🧠 About Me
 
-### About myself:
+I’m a **Data Specialist** with over **3 years of experience** working across the entire **data lifecycle** — from collection and transformation to analysis, visualization, and deployment.  
 
-I am a data specialist with over 3 years of hands-on experience in Python, SQL, and end-to-end data processes. I have extensive proficiency in building ETL pipelines, managing relational and non-relational databases (MySQL and MongoDB), and developing interactive and dynamic dashboards in Power BI for data visualization and analysis. My experience includes implementing Machine Learning (ML) models using Scikit-Learn and integrating them into production environments with Docker and APIs. One of the highlights of my work was creating a KPI control tool for Tenaris Confab, which optimized data-driven strategic decision-making. With a bachelor's degree in Electrical Engineering and an MBA in Data Science and Analytics, I am constantly evolving, focused on optimizing analytical processes and solving complex problems with data.
+- Skilled in **Python, SQL, and Power BI**, building robust **ETL pipelines** and **data models** that enable strategic decision-making.  
+- Experienced with **Machine Learning**, **APIs**, and **Docker**, delivering scalable and production-ready analytical solutions.  
+- Capable of working in **any environment**, from fast-paced startups to large corporations — both **independently and collaboratively** in cross-functional teams.  
+- Known for **rapid learning** and adaptability, quickly mastering new technologies and business domains.  
+- Passionate about transforming data into actionable insights that generate measurable business value.  
 
-### 📈 Profile Overall:
+🎓 **Education:**  
+- **B.Sc. in Electrical Engineering** – UNESP-FEG  
+- **MBA in Data Science & Analytics** – USP/ESALQ  
 
-<div style="display: flex; flex-direction: row;">
-  <a href="https://github.com/anuraghazra/github-readme-statsapi?username=VictorFantucci&show_icons=true&theme=algolia">
-    <img src="https://github-readme-stats.vercel.app/api?username=VictorFantucci&count_private=true&show_icons=true&theme=nord" />
+---
+
+### ⚙️ Technical Skills
+
+**Proficient:** Python, SQL, Power BI, Looker, Git  
+**Intermediate:** Linux, Databricks, Docker  
+**Beginner:** CI/CD, Google Cloud (GCP), Azure, AWS  
+
+---
+
+### 💼 Professional Highlights
+
+**💡 Data Consultant – SulAmérica (2025–Present)**  
+- Develop and maintain end-to-end data projects supporting executive decision-making.  
+- Utilize Python, SQL, and Looker on GCP for advanced analytics and complex statistical modeling.  
+
+**⚙️ Senior Analytics Engineer – Docway | SulAmérica (2025)**  
+- Rebuilt internal BI architecture, improving scalability, efficiency, and clarity.  
+- Delivered financial and operational analytics projects, improving client selection by **15%** and reducing costs by **30%**.  
+- Key tech: Python, Spark, Databricks, Azure, Power BI.  
+
+**🏭 Data Scientist – Tenaris (2023–2025)**  
+- Created an end-to-end ML solution to estimate machine cycle times (**R² = 0.91**) and deployed it through an API.  
+- Built a performance tracking system for industrial KPIs, enabling data-driven decision-making.  
+- Automated Excel-based data workflows, cutting task time by **12×**.  
+- Key tech: Python, scikit-learn, Flask, Django, REST API, Power BI, SQL, Docker.  
+
+**🧠 Machine Learning Engineer – Geofusion (2021–2022)**  
+- Developed geospatial ML models for market analysis and strategy.  
+- Improved model performance and reliability through algorithm optimization.  
+- Key tech: Python, scikit-learn, GeoPandas, Docker, Git, Linux.
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=VictorFantucci&count_private=true&show_icons=true&theme=dracula" alt="Victor's GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFantucci&layout=compact&theme=dracula" alt="Top Languages" />
+</div>
+
+---
+
+### 🚀 Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/VictorFantucci/r4ven_utils">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorFantucci&repo=r4ven_utils&theme=dracula" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFantucci&layout=compact&theme=nord" />
+  <a href="https://github.com/VictorFantucci/ATM_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorFantucci&repo=ATM_System&theme=dracula" />
   </a>
 </div>
 
-#### Top Repositories
+---
 
+### 📬 Contact
 
-<a href="https://github.com/VictorFantucci/r4ven_utils">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorFantucci&repo=r4ven_utils&theme=nord" />
-</a> 
-<a href="https://github.com/VictorFantucci/ATM_System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VictorFantucci&repo=ATM_System&theme=nord" />
-</a>
+📧 **Email:** [victor.v.fantucci@gmail.com](mailto:victor.v.fantucci@gmail.com)  
+💼 **LinkedIn:** [Victor Vinci Fantucci](https://www.linkedin.com/in/victor-vinci-fantucci-485464187)  
 
-<br />
-<br />
+---
 
-### 📫 How to reach me:
+### 💡 Acknowledgments
 
-victor.v.fantucci@gmail.com
-
-### 🔭 See my work at:
-
-<a href="https://www.linkedin.com/in/victor-vinci-fantucci-485464187"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp; <a href="https://www.kaggle.com/victorvincifantucci"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
-  
-### 💬 Acknowledgments:
-
-[Git Hub Repo: importdata](https://github.com/importdata/importdata)
-
-[Git Hub Repo: Anurag](https://github.com/anuraghazra/github-readme-stats)
+Stats and visual components powered by [Anurag Hazra’s GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
