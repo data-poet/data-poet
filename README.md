@@ -33,16 +33,3 @@ I’m a **Data Specialist** with over **3 years of experience** working across t
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorFantucci&repo=ATM_System&theme=dracula" />
   </a>
 </div>
-
----
-
-### 📬 Contact
-
-📧 **Email:** [victor.v.fantucci@gmail.com](mailto:victor.v.fantucci@gmail.com)  
-💼 **LinkedIn:** [Victor Vinci Fantucci](https://www.linkedin.com/in/victor-vinci-fantucci-485464187)  
-
----
-
-### 💡 Acknowledgments
-
-Stats and visual components powered by [Anurag Hazra’s GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
