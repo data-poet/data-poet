@@ -1,6 +1,6 @@
-### 🧠 About Me
+### About Me
 
-I’m a **Data Specialist** with over **3 years of experience** working across the entire **data lifecycle** — from collection and transformation to analysis, visualization, and deployment.  
+I’m a **Analytics Engineer** with over **3 years of experience** working across the entire **data lifecycle** — from collection and transformation to analysis, visualization, and deployment.  
 
 - Skilled in **Python, SQL, and Power BI**, building robust **ETL pipelines** and **data models** that enable strategic decision-making.  
 - Experienced with **Machine Learning**, **APIs**, and **Docker**, delivering scalable and production-ready analytical solutions.  
