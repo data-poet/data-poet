@@ -11,7 +11,7 @@ I am an Analytics Engineer with experience across the full data lifecycle, from 
   <a href="https://github.com/data-poet/ArchivumStreamlit">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=data-poet&repo=ArchivumStreamlit&theme=dracula" />
   </a>
-  <a href="https://github.com/data-poet/ArchivumSheet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=data-poet&repo=ArchivumSheet&theme=dracula" />
+  <a href="https://github.com/data-poet/clone-tabnews">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=data-poet&repo=clone-tabnews&theme=dracula" />
   </a>
 </div>
